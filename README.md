@@ -5,7 +5,7 @@ If you are interested in source code and have the ability to develop it, you can
 
 https://github.com/LontenTechnology/Raspberry_Pi_Pico_Starter_Kit_LTARK_19
 
-<img src='清单.png' width='100%'/>
+<img src='list.png' width='100%'/>
 
 ### Download
 
